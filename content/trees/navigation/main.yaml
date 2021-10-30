@@ -1,0 +1,16 @@
+tree:
+  -
+    id: 7db7e5b2-5c4a-40b7-9cb7-c5c5a5fe5f69
+    entry: home
+    data:
+      nav_icon: home
+  -
+    id: b456a26d-efbe-45d0-968a-5957dad0acee
+    entry: 2bd04848-e0df-4439-aca6-0540c7a25135
+    data:
+      nav_icon: music
+  -
+    id: 79497073-8606-4fe3-9429-a7e14cffd931
+    entry: 12d4bda0-369d-4ba9-8e53-1741c127c90e
+    data:
+      nav_icon: cog
